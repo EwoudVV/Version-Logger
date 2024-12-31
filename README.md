@@ -1,4 +1,6 @@
 # Version Logger
+[Link to the website](https://fantastic-swan-cb0629.netlify.app/)
+-
 
  - Functionalities for different versions: stable, beta and alpha <br>
    <img width="101" alt="image" src="https://github.com/user-attachments/assets/f382a823-a35e-427b-8d43-b38f4f652751" />
